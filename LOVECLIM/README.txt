@@ -1,6 +1,6 @@
 This directory takes care of the LOVECLIM part, chapter 3 of the thesis PDF
 
-In order to get all the figures used in the paper generated, please run Post_Trait_Mult_Freq.py. Make sure you have the 18GB 'data' directory contact me if you want it antoine.gilliard@hotmail.fr, it contains all the netCDF files used in the evaluation.
+In order to get all the figures used in the paper generated, please run Post_Trait_Mult_Freq.py. Make sure you have the 18GB 'data' directory in the same directory (it was too heavy to upload here, contact me if you want it at antoine.gilliard@hotmail.fr), it contains all the netCDF files used in the evaluation.
 
 Running Post_Trait_Mult_Freq.py will generate three result figures directories:
 	- bar_plots: The directory on the correlation bar plots containing
