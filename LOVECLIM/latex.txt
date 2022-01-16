@@ -1,0 +1,201 @@
+\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_free_0_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_ts_free_0_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_free_0_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_sst_free_0_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_free_0_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_ts_free_0_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_free_0_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_sst_free_0_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_free_0_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_ts_free_0_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_free_0_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_sst_free_0_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_free_0_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_ts_free_0_10_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_free_0_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_sst_free_0_10_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_base_i_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_ts_base_i_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_base_i_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_sst_base_i_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_base_i_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_ts_base_i_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_base_i_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_sst_base_i_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_base_i_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_ts_base_i_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_base_i_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_sst_base_i_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_base_i_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_ts_base_i_10_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_base_i_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_sst_base_i_10_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_base_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_ts_base_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_base_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_sst_base_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_base_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_ts_base_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_base_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_sst_base_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_base_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_ts_base_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_base_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_sst_base_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_base_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_ts_base_10_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_base_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_sst_base_10_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_backtrack_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_ts_backtrack_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_backtrack_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_sst_backtrack_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_backtrack_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_ts_backtrack_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_backtrack_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_sst_backtrack_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_backtrack_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_ts_backtrack_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_backtrack_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_sst_backtrack_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_backtrack_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_ts_backtrack_10_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_backtrack_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_sst_backtrack_10_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_cumulative_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_ts_cumulative_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_cumulative_1_correlation.png}
+\caption{Illustration of yearly \rho on TS}
+\label{fig:map_sst_cumulative_1_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_cumulative_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_ts_cumulative_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_cumulative_1_CE.png}
+\caption{Illustration of yearly CE on TS}
+\label{fig:map_sst_cumulative_1_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_cumulative_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_ts_cumulative_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_cumulative_10_correlation.png}
+\caption{Illustration of decadal \rho on TS}
+\label{fig:map_sst_cumulative_10_correlation}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_ts_cumulative_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_ts_cumulative_10_CE}
+\end{figure}\begin{figure}[H]
+\centering
+\includegraphics[width=10cm]{fig/map_sst_cumulative_10_CE.png}
+\caption{Illustration of decadal CE on TS}
+\label{fig:map_sst_cumulative_10_CE}
+\end{figure}
